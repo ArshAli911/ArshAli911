@@ -23,11 +23,13 @@
 
 ## <img src="https://badgen.net/badge/Featured%20Projects/★/black?icon=github" alt="Featured Projects"/>
 
-| Project                                   | Description                                                                                                                                                                  | Stars                                                                                                      |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [Emotion-Driven-NPCs][1]                  | AI-focused project exploring emotion-driven NPC behavior, state, context, and believable decision patterns for interactive systems.                                           | ![stars](https://img.shields.io/github/stars/ArshAli911/Emotion-Driven-NPCs?style=flat&logo=github)        |
-| [Trust Boundary Visualizer][4]            | Security architecture analysis tool that models distributed systems as directed graphs and highlights trust boundary, identity, and privilege escalation risks.                | ![stars](https://img.shields.io/github/stars/ArshAli911/Trust-Boundary-Visualizer?style=flat&logo=github) |
-| [grievance-cell-2.0][5]                   | Python-based grievance management project focused on practical backend workflows and issue handling.                                                                          | ![stars](https://img.shields.io/github/stars/ArshAli911/grievance-cell-2.0?style=flat&logo=github)        |
+| Project                                   | Description                                                                                                                                                                  | Stars                                                                                                                       |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [Broker CSV Trade Import Service][6]      | TypeScript + Hono API that detects broker CSV formats, normalizes Zerodha and IBKR trade rows, and returns consistent JSON with row-level validation errors.                  | ![private](https://img.shields.io/badge/repo-private-586069?style=flat&logo=github)                                         |
+| [Face ROI Video API][7]                   | Containerized FastAPI + React system that uploads MP4s, detects faces frame-by-frame with MediaPipe, draws ROI boxes, and stores per-frame metadata in SQLite.                | ![stars](https://img.shields.io/github/stars/ArshAli911/Real-Time-Face-Detection-Video-Streaming-System?style=flat&logo=github) |
+| [Emotion-Driven-NPCs][1]                  | AI-focused project exploring emotion-driven NPC behavior, state, context, and believable decision patterns for interactive systems.                                           | ![stars](https://img.shields.io/github/stars/ArshAli911/Emotion-Driven-NPCs?style=flat&logo=github)                         |
+| [Trust Boundary Visualizer][4]            | Security architecture analysis tool that models distributed systems as directed graphs and highlights trust boundary, identity, and privilege escalation risks.                | ![stars](https://img.shields.io/github/stars/ArshAli911/Trust-Boundary-Visualizer?style=flat&logo=github)                   |
+| [grievance-cell-2.0][5]                   | Python-based grievance management project focused on practical backend workflows and issue handling.                                                                          | ![stars](https://img.shields.io/github/stars/ArshAli911/grievance-cell-2.0?style=flat&logo=github)                          |
 
 ## <img src="https://badgen.net/badge/Backend/API%20Engineering/green?icon=terminal" alt="Backend and API Engineering"/>
 
@@ -87,3 +89,5 @@ Building practical backend systems with Python, FastAPI, Pydantic, REST APIs, da
 [3]: https://github.com/ArshAli911/TCP-Reno-Congestion-Control-Simulation
 [4]: https://github.com/ArshAli911/Trust-Boundary-Visualizer
 [5]: https://github.com/ArshAli911/grievance-cell-2.0
+[6]: https://github.com/ArshAli911/broker-csv-importer
+[7]: https://github.com/ArshAli911/Real-Time-Face-Detection-Video-Streaming-System
